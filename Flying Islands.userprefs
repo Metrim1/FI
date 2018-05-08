@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Resources\ResClick.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PLayer\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Resources\ResClick.cs" Line="32" Column="27" />
+      <File FileName="Assets\Scripts\Ground\GravityOn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Resources\GreenRes.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Resources\ResMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PLayer\HitBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Resources\ResProp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\ResButton.cs" Line="36" Column="51" />
+      <File FileName="Assets\Scripts\Level\BottomBorder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level\LevelBorders.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level\ResSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level\EnemySpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\EnemyMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\EnemyShot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PLayer\PlayerShooting.cs" Line="52" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
